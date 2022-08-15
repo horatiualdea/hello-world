@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registering new User... again :| Last User</h1>
+    <h1>Registering Last Userrrrr</h1>
     <p>Please,please,please fill in this form to create an account.</p>
     <hr>
 
